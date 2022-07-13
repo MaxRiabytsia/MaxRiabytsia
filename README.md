@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on any interesting AI related project
 
 - 📫 How to reach me: 
-- Telegram: https://t.me/riabytsaM
+- Telegram: https://t.me/maxriabytsia
 - LinkedIn: https://www.linkedin.com/in/maxriabytsia/?locale=en_US
 
 <!---
