@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MaxRiabytsia
-- 👀 I’m interested in AI and data science
-- 🌱 I’m currently learning web scraping and NLP
-- 💞️ I’m looking to collaborate on any interesting AI related project
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning django
+- 💞️ I’m looking to collaborate on any interesting projects
 
 - 📫 How to reach me: 
 - Telegram: https://t.me/maxriabytsia
